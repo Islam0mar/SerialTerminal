@@ -89,7 +89,7 @@ int main() {
   }
 
   printf("Enter the port number to connect: ");
-  int i = get_int("Int: ");
+  int i = get_int("");
   if (i >= x || i < 1 || x < 2) return 1;
   x = i;
   i = 1;
