@@ -9,6 +9,10 @@ Serial terminal used for interacting with forth on microcontrollers
 
 **3.** [libcs50](https://github.com/cs50/libcs50) 
 
+
+**4.** POSIX support `#define _POSIX_C_SOURCE 200809L`
+ 
+
 ## Copyright
 
 Copyright (c) 2019 Islam Omar (io1131@fayoum.edu.eg)
